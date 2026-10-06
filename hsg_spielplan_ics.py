@@ -126,7 +126,8 @@ def build_ics(games) -> str:
         "BEGIN:VCALENDAR", "VERSION:2.0",
         "PRODID:-//Digitalschmiede//HSG Spielplan//DE",
         "CALSCALE:GREGORIAN", "METHOD:PUBLISH",
-        "X-WR-CALNAME:HSG Blomberg-Lippe Spielplan",
+        "X-WR-CALNAME:BLO - Spielplan",
+        "NAME:BLO - Spielplan",
         "X-WR-TIMEZONE:Europe/Berlin",
         "REFRESH-INTERVAL;VALUE=DURATION:PT12H", "X-PUBLISHED-TTL:PT12H",
     ]
