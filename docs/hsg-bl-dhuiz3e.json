@@ -1,0 +1,192 @@
+{
+ "f8f3ebd5b5dc97b9426a@hsg-spielplan": {
+  "summary": "HSG Blomberg-Lippe – Borussia Dortmund",
+  "start": "2026-08-22 15:00:00+02:00",
+  "result": "26:24"
+ },
+ "5fcd1ac791eb79135ff6@hsg-spielplan": {
+  "summary": "HSG Blomberg-Lippe – FRISCH AUF Göppingen",
+  "start": "2026-08-29 17:00:00+02:00",
+  "result": "37:34"
+ },
+ "219829de45fec60168ff@hsg-spielplan": {
+  "summary": "HSG Blomberg-Lippe – TuS Metzingen",
+  "start": "2026-09-02 19:00:00+02:00",
+  "result": "40:28"
+ },
+ "b4bfe91d5ce51a95d6ff@hsg-spielplan": {
+  "summary": "HSG Blomberg-Lippe – Gloria Bistrița",
+  "start": "2026-09-06 14:00:00+02:00",
+  "result": "23:28"
+ },
+ "24dc921b8ae6171ff9a0@hsg-spielplan": {
+  "summary": "SV Union Halle-Neustadt – HSG Blomberg-Lippe",
+  "start": "2026-09-09 19:00:00+02:00",
+  "result": "25:31"
+ },
+ "d8e1b5642ce5eca836ac@hsg-spielplan": {
+  "summary": "HSG Blomberg-Lippe – Storhamar Håndball Elite",
+  "start": "2026-09-12 16:00:00+02:00",
+  "result": "23:27"
+ },
+ "a13cd3f199a831e0cd8b@hsg-spielplan": {
+  "summary": "HSG Blomberg-Lippe – BSV Sachsen Zwickau",
+  "start": "2026-09-16 19:00:00+02:00",
+  "result": "31:20"
+ },
+ "451ec766504fb3bfab18@hsg-spielplan": {
+  "summary": "Nykøbing Falster Håndbold – HSG Blomberg-Lippe",
+  "start": "2026-09-20 14:00:00+02:00",
+  "result": "31:26"
+ },
+ "81385093d94d9042661e@hsg-spielplan": {
+  "summary": "Thüringer HC – HSG Blomberg-Lippe",
+  "start": "2026-09-30 19:00:00+02:00",
+  "result": "34:31"
+ },
+ "b51b906a417aad00378f@hsg-spielplan": {
+  "summary": "HSG Blomberg-Lippe – HC Podravka",
+  "start": "2026-10-03 16:00:00+02:00",
+  "result": "31:33"
+ },
+ "ccf94c5d481353aa728d@hsg-spielplan": {
+  "summary": "Thüringer HC – HSG Blomberg-Lippe",
+  "start": "2026-10-07 19:30:00+02:00",
+  "result": ""
+ },
+ "1bbfb7e4d9f68ec77b43@hsg-spielplan": {
+  "summary": "HSG Blomberg-Lippe – Odense Håndbold",
+  "start": "2026-10-11 14:00:00+02:00",
+  "result": ""
+ },
+ "f0f4d29811eab5940784@hsg-spielplan": {
+  "summary": "HSG Blomberg-Lippe – HC Leipzig",
+  "start": "2026-10-14 19:00:00+02:00",
+  "result": ""
+ },
+ "222b5e774168adb64873@hsg-spielplan": {
+  "summary": "Metz Handball – HSG Blomberg-Lippe",
+  "start": "2026-10-17 18:00:00+02:00",
+  "result": ""
+ },
+ "91a85de63dcfaebf0665@hsg-spielplan": {
+  "summary": "Sport-Union Neckarsulm – HSG Blomberg-Lippe",
+  "start": "2026-10-31 15:00:00+01:00",
+  "result": ""
+ },
+ "c66c1f856a6f581443d0@hsg-spielplan": {
+  "summary": "HSG Blomberg-Lippe – HSG Bensheim/Auerbach",
+  "start": "2026-11-04 19:00:00+01:00",
+  "result": ""
+ },
+ "1585f9c3bc2021fc1de6@hsg-spielplan": {
+  "summary": "HSG Blomberg-Lippe – Győri Audi ETO KC",
+  "start": "2026-11-07 18:00:00+01:00",
+  "result": ""
+ },
+ "1bb1da1fc0497a953679@hsg-spielplan": {
+  "summary": "Győri Audi ETO KC – HSG Blomberg-Lippe",
+  "start": "2026-11-14 18:00:00+01:00",
+  "result": ""
+ },
+ "d36c69851fcc481cd4d5@hsg-spielplan": {
+  "summary": "Borussia Dortmund – HSG Blomberg-Lippe",
+  "start": "2026-11-21 19:00:00+01:00",
+  "result": ""
+ },
+ "d1685ad6c45cffcaea49@hsg-spielplan": {
+  "summary": "HSG Blomberg-Lippe – Buxtehuder SV",
+  "start": "2026-12-30 19:00:00+01:00",
+  "result": ""
+ },
+ "e59fc5e8d88c6198c472@hsg-spielplan": {
+  "summary": "VfL Oldenburg – HSG Blomberg-Lippe",
+  "start": "2027-01-03 16:30:00+01:00",
+  "result": ""
+ },
+ "85a3671f685beabbc8ba@hsg-spielplan": {
+  "summary": "HSG Blomberg-Lippe – Metz Handball (Uhrzeit offen)",
+  "start": "2027-01-09",
+  "result": ""
+ },
+ "c78ce4e12ab67c6c17f1@hsg-spielplan": {
+  "summary": "FRISCH AUF Göppingen – HSG Blomberg-Lippe (Uhrzeit offen)",
+  "start": "2027-01-10",
+  "result": ""
+ },
+ "de208cdc2827a6df0340@hsg-spielplan": {
+  "summary": "Odense Håndbold – HSG Blomberg-Lippe (Uhrzeit offen)",
+  "start": "2027-01-16",
+  "result": ""
+ },
+ "40a68dcb4e7e716261c5@hsg-spielplan": {
+  "summary": "HC Podravka – HSG Blomberg-Lippe (Uhrzeit offen)",
+  "start": "2027-01-23",
+  "result": ""
+ },
+ "f29943755d95e610a639@hsg-spielplan": {
+  "summary": "TuS Metzingen – HSG Blomberg-Lippe",
+  "start": "2027-01-27 19:30:00+01:00",
+  "result": ""
+ },
+ "9463f5c7b3479a4873b8@hsg-spielplan": {
+  "summary": "HSG Blomberg-Lippe – SV Union Halle-Neustadt",
+  "start": "2027-01-30 17:00:00+01:00",
+  "result": ""
+ },
+ "0c542e0731effd042d96@hsg-spielplan": {
+  "summary": "BSV Sachsen Zwickau – HSG Blomberg-Lippe",
+  "start": "2027-02-03 19:00:00+01:00",
+  "result": ""
+ },
+ "15961be560a4b9827810@hsg-spielplan": {
+  "summary": "HSG Blomberg-Lippe – Nykøbing Falster Håndbold (Uhrzeit offen)",
+  "start": "2027-02-06",
+  "result": ""
+ },
+ "63ad4b35a1fd54c09199@hsg-spielplan": {
+  "summary": "HSG Blomberg-Lippe – Thüringer HC",
+  "start": "2027-02-10 19:00:00+01:00",
+  "result": ""
+ },
+ "71dd45ed1ff19805d3ff@hsg-spielplan": {
+  "summary": "Storhamar Håndball Elite – HSG Blomberg-Lippe (Uhrzeit offen)",
+  "start": "2027-02-13",
+  "result": ""
+ },
+ "fda3422f7ccb2fd63578@hsg-spielplan": {
+  "summary": "Gloria Bistrița – HSG Blomberg-Lippe (Uhrzeit offen)",
+  "start": "2027-02-20",
+  "result": ""
+ },
+ "d368ac13dbff3f51379e@hsg-spielplan": {
+  "summary": "HC Leipzig – HSG Blomberg-Lippe",
+  "start": "2027-02-24 19:00:00+01:00",
+  "result": ""
+ },
+ "636e6464c64007688204@hsg-spielplan": {
+  "summary": "HSG Blomberg-Lippe – Sport-Union Neckarsulm",
+  "start": "2027-02-27 17:00:00+01:00",
+  "result": ""
+ },
+ "8dcca8f8f2f5ee85a9cf@hsg-spielplan": {
+  "summary": "HSG Bensheim/Auerbach – HSG Blomberg-Lippe",
+  "start": "2027-03-13 18:00:00+01:00",
+  "result": ""
+ },
+ "376c25b53e978a13cd77@hsg-spielplan": {
+  "summary": "HSG Blomberg-Lippe – Borussia Dortmund",
+  "start": "2027-03-17 19:00:00+01:00",
+  "result": ""
+ },
+ "1bc7f2ec085c222d8a3f@hsg-spielplan": {
+  "summary": "Buxtehuder SV – HSG Blomberg-Lippe",
+  "start": "2027-03-27 16:00:00+01:00",
+  "result": ""
+ },
+ "60289c7b1d50802a5bc9@hsg-spielplan": {
+  "summary": "HSG Blomberg-Lippe – VfL Oldenburg",
+  "start": "2027-04-04 14:30:00+02:00",
+  "result": ""
+ }
+}
