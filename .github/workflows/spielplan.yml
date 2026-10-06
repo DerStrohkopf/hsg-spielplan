@@ -16,7 +16,7 @@ jobs:
       - run: pip install requests beautifulsoup4
       - run: |
           mkdir -p docs
-          python hsg_spielplan_ics.py --out docs/hsg-bl-dhuiz3eqou88399o3qx92PQ.ics
+          python hsg_spielplan_ics.py --out docs/hsg-bl-dhuiz3e.ics
       - run: |
           git config user.name "github-actions"
           git config user.email "actions@users.noreply.github.com"
